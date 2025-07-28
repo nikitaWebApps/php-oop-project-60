@@ -1,0 +1,17 @@
+{
+    "name": "hexlet/code",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikitaWebApps",
+            "email": "nikitagolovlev.design@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12"
+    }
+}
